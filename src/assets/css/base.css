@@ -1,0 +1,15 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: var(--bg);
+}
+
+ol {
+  list-style-position: inside;
+}
+
+blockquote {
+  font-size: 1rem;
+}
